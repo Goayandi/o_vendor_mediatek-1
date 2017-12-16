@@ -1,6 +1,3 @@
-# Doze
-PRODUCT_PACKAGES += MeizuDoze
-
 # Ion
 PRODUCT_PACKAGES += libion
 
